@@ -1,0 +1,137 @@
+@charset "utf-8";
+/* CSS Document */
+
+#titulo {
+	text-align: center;
+	}
+	
+#Inicio {
+	padding-left: 4%;
+ background-color: #fff;
+ position: relative;
+}
+
+
+
+
+#inventos {
+ padding: 50px;
+ text-align: center;
+	background-color:#ffffff; 
+	align-items: center;
+}
+
+h1 {
+	font-family: 'IBM Plex Sans', sans-serif;
+	 font-weight: 700;
+	 font-size: 6rem;
+	 line-height: 1.5;
+	 margin-left: 5%;
+	 margin-right: 5%;
+}
+
+h2 {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: 500;
+	 font-size: 3rem;
+	 line-height: 1.5;
+	 margin-left: 5%;
+	 margin-right: 5%;
+	 text-align: center;
+}
+
+h3 {
+	font-family: 'Crimson Text', serif;
+	 font-weight: 500;
+	 font-size: 1.7rem;
+	 line-height: 1.5;
+	 margin-left: 5%;
+	 margin-right: 5%;
+	 text-align: center;
+}
+
+h4 {
+	text-align: center;
+	font-family: 'IBM Plex Sans', sans-serif;
+	 font-weight: 500;
+	 font-size: 4rem;
+	 line-height: 0.9;
+}
+
+h5 {
+	text-align: center;
+	font-family: 'Crimson Text', serif;
+	 font-weight:50;
+	 font-size: 3.5rem;
+	 line-height: 0.9;
+	 padding-top: 3.5%;
+}
+
+h6 {
+	font-family: 'IBM Plex Sans', sans-serif;
+	font-weight: 700;
+	font-size: 3rem;
+	line-height: 1.5;
+	text-align: center;
+}
+
+.title-image{
+ width: 100%;
+
+}
+
+
+
+
+p{
+	font-family: 'Crimson Text', serif;
+	color: #807d7d;
+ 	text-align: center;
+}
+
+.oportunidades{
+	text-align: center;
+	
+}
+
+.carousel-item{
+ padding: 2% 20%;
+background-color: #ffffff	
+}
+
+#Materias{
+	background-color: #ee931b
+}
+
+.container-fluid{
+ padding: 3% 15% 7%;
+}
+
+@media (max-width: 1024px) {
+ #titulo{
+ text-align: center;
+ }
+ }
+ 
+#cta{
+ background-color: #ffffff;
+ color: rgb(22, 22, 22);
+ padding: 7% 15%;
+ text-align: center;
+}
+
+
+
+#footer {
+	padding: 7% 15%;
+	text-align: center;
+	
+}
+.social-icon{
+	margin: 20px 10px;
+	text-align: center;
+}
+#video {
+	align-items: center;
+}
+
